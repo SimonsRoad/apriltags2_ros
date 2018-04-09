@@ -19,6 +19,7 @@
 #   ]
 standalone_tags:
   [
+    {id: 405, size: 0.1635, name: agv_dis}
   ]
 # ## Tag bundle definitions
 # ### Remarks
